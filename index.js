@@ -25,5 +25,5 @@ function johnLennonFacts(facts){
   }
   return arr
 }
-  
+
   johnLennonFacts(facts);
